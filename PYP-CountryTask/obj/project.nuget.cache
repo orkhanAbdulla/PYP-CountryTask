@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xBQvURMZ+99Rhhkq0ME3qDkTsQiE4aqx+E3YDIFJT03ixemnLDyuKCqRE2B0ke3Mqth+Bn71HqWy0mmzlknKBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\PYP-CountryTask\\PYP-CountryTask\\PYP-CountryTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
